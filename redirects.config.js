@@ -1,8 +1,8 @@
 import { twitter, github, linkedin } from './site.config'
 
 const redirects = {
-  calendly: `https://calendly.com/wzulfikar`,
-  notion: `https://www.notion.so/wzulfikar/dbe6b9fe47244464b1d3832969426f9e`,
+  calendly: `https://cutt.ly/AMA_aman`,
+  notion: `https://www.notion.so/Aman%20Sharma/919c6b7b02bf45bb80e4714e27143848`,
   twitter: `https://twitter.com/${twitter}`,
   github: `https://github.com/${github}`,
   linkedin: `https://linkedin.com/in/${linkedin}`
