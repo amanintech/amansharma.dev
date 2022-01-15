@@ -15,7 +15,7 @@ module.exports = {
   fontFamily: 'Work Sans',
 
   // open graph metadata (optional)
-  description: 'Personal Website for ',
+  description: 'Tech X ( Entreprenuer + Stack Advisor ) + Mentor / Speaker  | CoFounder & CTO twimbit  ',
   socialImageTitle: 'amanin.tech',
   socialImageSubtitle: 'Hey from Aman! 👋',
 
