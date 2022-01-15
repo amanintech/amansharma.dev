@@ -8,16 +8,16 @@ module.exports = {
 
   // basic site info (required)
   name: 'Aman Sharma',
-  domain: process.env.NEXT_PUBLIC_DOMAIN || 'Amansharma.dev',
+  domain: process.env.NEXT_PUBLIC_DOMAIN || 'amanin.tech',
   author: 'Aman Sharma',
 
   // Use custom font family (leave empty to use default font)
   fontFamily: 'Work Sans',
 
   // open graph metadata (optional)
-  description: 'Just another blog',
-  socialImageTitle: 'wzulfikar.com',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Personal Website for ',
+  socialImageTitle: 'amanin.tech',
+  socialImageSubtitle: 'Hey from Aman! 👋',
 
   // social usernames (optional)
   twitter: 'amanintech',
@@ -26,7 +26,7 @@ module.exports = {
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F50b08723-06fe-4b85-b629-dcd79ad2f003%2F1638644413393.jpg?table=block&id=919c6b7b-02bf-45bb-80e4-714e27143848&cache=v2',
   defaultPageCover: null,
   defaultPageCoverPosition: 0.5,
 
