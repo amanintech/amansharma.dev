@@ -38,7 +38,7 @@ export default class MyDocument extends Document {
           </Head>
 
           {/* Activate dark-mode by default */}
-          <body className='dark-mode'>
+          <body className='light-mode'>
             <script src='noflash.js' />
 
             <Main />
